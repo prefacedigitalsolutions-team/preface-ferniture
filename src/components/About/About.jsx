@@ -355,7 +355,7 @@ function About() {
 
             <img
               ref={imageRef}
-              src="/img/About-banar-1.jpg"
+              src="img/home/workstation.jpg"
               alt="Creative team and workspace"
             />
 

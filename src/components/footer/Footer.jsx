@@ -82,7 +82,7 @@ function Footer() {
               className="footer-logo"
             >
               <img
-                src="/img/logo.png"
+                src="img/logo.png"
                 alt="Company Logo"
               />
             </a>

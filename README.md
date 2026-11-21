@@ -27,4 +27,3 @@ Project
 This project was created as a frontend landing page for Preface Communication, focusing on a clean visual experience and responsive design across different screen sizes.
 
 
-

@@ -16,10 +16,10 @@ function Hero() {
 
   // Sirf images change hongi
 const images = [
-  "/img/printing-banar-1.jpg",
-  "/img/cataloge-design-banar.jpg",
-  "/img/photoshoot-banar-1.jpg",
-  "/img/web-design-banar-1.jpg",
+  "img/home/office-table.jpg",
+  "img/home/office-table-2.jpg",
+  "img/photoshoot-banar-1.jpg",
+  "img/home/office-chair.jpg",
 ];
   /* =========================================
      INITIAL GSAP ANIMATION

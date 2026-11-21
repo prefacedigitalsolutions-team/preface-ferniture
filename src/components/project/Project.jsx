@@ -12,7 +12,7 @@ const projects = [
     category: "PRINT / COMMUNICATION",
     description:
       "A complete visual communication system created to present a large industrial product range with clarity and impact.",
-    image: "/img/project-catalogue-1.jpg",
+    image: "img/project-catalogue-1.jpg",
   },
 
   {
@@ -22,7 +22,7 @@ const projects = [
     category: "PHOTOGRAPHY",
     description:
       "A detailed product photography direction created to bring consistency, character and precision to a brand's visual library.",
-    image: "/img/project-photo-1.jpg",
+    image: "img/home/bed-2.jpg",
   },
 
 
@@ -34,7 +34,7 @@ const projects = [
     category: "DIGITAL / WEB",
     description:
       "A modern digital experience combining clean typography, strong imagery and intuitive navigation.",
-    image: "/img/project-webdesign-1.jpg",
+    image: "img/project-webdesign-1.jpg",
   },
 
   {
@@ -44,7 +44,7 @@ const projects = [
     category: "CAMPAIGN / DIGITAL",
     description:
       "A focused communication campaign created to strengthen visibility and build meaningful audience engagement.",
-    image: "/img/project-digital-marketing.jpg",
+    image: "img/project-digital-marketing.jpg",
   },
 ];
 

@@ -5,35 +5,35 @@ import "./Clients.css";
 const clients = [
   {
     name: "TATA",
-    logo: "/img/Action Tesa.jpg",
+    logo: "img/Action Tesa.jpg",
   },
   {
     name: "Mahindra",
-    logo: "/img/Asahi Ropes.png",
+    logo: "img/Asahi Ropes.png",
   },
   {
     name: "Godrej",
-    logo: "/img/BGL.png",
+    logo: "img/BGL.png",
   },
   {
     name: "Asian Paints",
-    logo: "/img/ERD.png",
+    logo: "img/ERD.png",
   },
   {
     name: "Larsen & Toubro",
-    logo: "/img/Geeken.png",
+    logo: "img/Geeken.png",
   },
   {
     name: "Bajaj",
-    logo: "/img/Paramount Bed.jpg",
+    logo: "img/Paramount Bed.jpg",
   },
   {
     name: "Hero",
-    logo: "/img/Spac.png",
+    logo: "img/Spac.png",
   },
   {
     name: "Voltas",
-    logo: "/img/ASSOMAC.png",
+    logo: "img/ASSOMAC.png",
   },
 ];
 

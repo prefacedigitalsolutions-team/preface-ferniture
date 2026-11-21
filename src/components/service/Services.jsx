@@ -5,8 +5,20 @@ import { ArrowUpRight } from "lucide-react";
 import "./Services.css";
 
 const services = [
-  {
+
+
+   {
     number: "01",
+    title: "Catalogue & Brochure",
+    subtitle: "Design & Communication",
+    description:
+      "Well-crafted catalogues and brochures that present your products, services and brand in a clear, structured and visually powerful way.",
+  },
+
+
+
+  {
+    number: "02",
     title: "Web Design",
     subtitle: "Websites & Digital Experience",
     description:
@@ -14,20 +26,14 @@ const services = [
   },
 
   {
-    number: "02",
+    number: "03",
     title: "Photo Shoot",
     subtitle: "Product & Industrial Photography",
     description:
       "Professional product, industrial and lifestyle photography created to give your products a consistent and compelling visual identity.",
   },
 
-  {
-    number: "03",
-    title: "Catalogue & Brochure",
-    subtitle: "Design & Communication",
-    description:
-      "Well-crafted catalogues and brochures that present your products, services and brand in a clear, structured and visually powerful way.",
-  },
+ 
 
   {
     number: "04",
@@ -39,10 +45,10 @@ const services = [
 ];
 
 const images = [
-  "/img/service-web-1.jpg",
-  "/img/service-photoshoot-1.jpg",
-  "/img/service-catalogue-1.jpg",
-  "/img/service-digital-1.jpg",
+   "img/home/conference-room.jpg",
+  "img/service-web-1.jpg",
+  "img/service-photoshoot-1.jpg",
+  "img/service-digital-1.jpg",
 ];
 function Services() {
   const sectionRef = useRef(null);
